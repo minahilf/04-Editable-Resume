@@ -195,5 +195,9 @@ hr{
     .desc{
         font-size: 14px;
     }
+
+    .resume{
+        width: 80%;
+    }
 }
 
